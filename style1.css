@@ -1,0 +1,14 @@
+<style>
+ table{border:4px solid rosybrown; padding:6px;}
+ td,th,tr{ border: 1px solid goldenrod;}
+ td{ border: 1px solid goldenrod; width:25%;}
+ th{ border: 1px solid goldenrod;}
+ tr{ border:1px solid black;}
+ caption{ color:orange;
+        font-size: 160%;
+        font-weight: bold;
+        border: 6px solid firebrick ;
+        padding: 2px;
+        margin: 10px;
+ }
+</style>
